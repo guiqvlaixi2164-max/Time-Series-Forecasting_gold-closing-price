@@ -1,10 +1,4 @@
-# Forecasting Gold Futures Prices with ARIMA and GARCH: A Practical Guide
-
-**Tags:** Time Series, Data Science, Machine Learning, Financial Forecasting, ARIMA, GARCH, Gold Prices
-
----
-
-## Introduction
+# Forecasting Gold Futures Prices with ARIMA and GARCH
 
 Gold is one of the most closely watched commodities in financial markets. In this post, we walk through a complete time series forecasting project using daily closing prices from the Shanghai Futures Exchange (SHFE) gold futures contract. The dataset covers roughly 18 months of trading days, from July 2022 through January 2024, with prices quoted in CNY per gram.
 
